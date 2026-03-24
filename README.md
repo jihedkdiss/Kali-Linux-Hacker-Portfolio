@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/github/forks/jihedkdiss/Kali-Linux-Hacker-Portfolio?style=flat-square" alt="Forks" />
 </p>
 <p align="center">
-    <a href="https://jihedkdiss.tn">
-        <img src="https://img.shields.io/badge/View%20Live%20Demo-jihedkdiss.tn-17BB98?style=for-the-badge" alt="Forks" />
+    <a href="https://jihedkdiss.netlify.app">
+        <img src="https://img.shields.io/badge/View%20Live%20Demo-jihedkdiss.netlify.app-17BB98?style=for-the-badge" alt="Forks" />
     </a>
 </p>
 <p align="center">
@@ -70,7 +70,7 @@ Contributions are welcome. If you'd like to contribute:
 
 ## Author
 
-[![Website](https://img.shields.io/badge/Website-jihedkdiss.tn-17BB98?style=for-the-badge)](https://jihedkdiss.tn)
+[![Website](https://img.shields.io/badge/Website-jihedkdiss.netlify.app-17BB98?style=for-the-badge)](https://jihedkdiss.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihedkdiss)
 [![X / Twitter](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xjio_)
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjihedkdiss%2FKali-Linux-Hacker-Portfolio&label=Visitors&countColor=%23dce775" alt="Visitors" />
